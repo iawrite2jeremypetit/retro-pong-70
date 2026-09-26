@@ -2,7 +2,7 @@
 
 Un Pong en JavaScript pur (HTML5 Canvas), style arcade fin années 70 / début années 80 — palette synthwave néon, police pixel, sons 8-bit générés en direct via Web Audio API. Aucune dépendance externe (pas de framework, pas de fichier audio/image).
 
-**[▶ Jouer en ligne](#)** <!-- remplace par le lien GitHub Pages une fois activé -->
+**[▶ Jouer en ligne](#)** https://iawrite2jeremypetit.github.io/retro-pong-70/
 
 ## Fonctionnalités
 
